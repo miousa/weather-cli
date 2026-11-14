@@ -1,0 +1,7 @@
+__pycahce__/
+*.json
+*.pyc
+.venv/
+venv/
+.env
+.vscode/
